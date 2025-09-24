@@ -1,0 +1,3045 @@
+[
+  {
+    "id": "r-1000",
+    "title": "Sunny room in Centrum",
+    "price": 1202,
+    "budgetRange": "€1054-1344",
+    "city": "Eindhoven",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 51.451,
+      "lng": 5.468
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-10-18",
+    "amenities": [
+      "gym",
+      "dishwasher",
+      "balcony"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room1.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1001",
+    "title": "Modern room in De Pijp",
+    "price": 882,
+    "budgetRange": "€759-983",
+    "city": "Amsterdam",
+    "neighborhood": "De Pijp",
+    "coords": {
+      "lat": 52.366,
+      "lng": 4.893
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-11-16",
+    "amenities": [
+      "wifi",
+      "bike_storage",
+      "parking",
+      "garden"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "F",
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room2.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1002",
+    "title": "Affordable room in Tongelre",
+    "price": 1303,
+    "budgetRange": "€1154-1376",
+    "city": "Eindhoven",
+    "neighborhood": "Tongelre",
+    "coords": {
+      "lat": 51.439,
+      "lng": 5.484
+    },
+    "roomType": "private",
+    "moveInDate": "2025-10-14",
+    "amenities": [
+      "garden",
+      "balcony",
+      "dryer",
+      "dishwasher",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room3.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1003",
+    "title": "Affordable room in Noord",
+    "price": 1265,
+    "budgetRange": "€1156-1346",
+    "city": "Amsterdam",
+    "neighborhood": "Noord",
+    "coords": {
+      "lat": 52.384,
+      "lng": 4.883
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-10-24",
+    "amenities": [
+      "wifi",
+      "balcony",
+      "parking",
+      "furnished",
+      "garden"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "M",
+        "M",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room4.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1004",
+    "title": "Bright room in Tongelre",
+    "price": 752,
+    "budgetRange": "€652-861",
+    "city": "Eindhoven",
+    "neighborhood": "Tongelre",
+    "coords": {
+      "lat": 51.455,
+      "lng": 5.472
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-10-11",
+    "amenities": [
+      "garden",
+      "wifi"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room5.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1005",
+    "title": "Affordable room in Feijenoord",
+    "price": 556,
+    "budgetRange": "€424-746",
+    "city": "Rotterdam",
+    "neighborhood": "Feijenoord",
+    "coords": {
+      "lat": 51.904,
+      "lng": 4.498
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-12-20",
+    "amenities": [
+      "gym",
+      "dryer",
+      "balcony",
+      "furnished",
+      "garden"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "M",
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room6.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1006",
+    "title": "Cozy room in Kralingen",
+    "price": 1034,
+    "budgetRange": "€899-1222",
+    "city": "Rotterdam",
+    "neighborhood": "Kralingen",
+    "coords": {
+      "lat": 51.927,
+      "lng": 4.471
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-10-30",
+    "amenities": [
+      "furnished",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room7.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1007",
+    "title": "Cozy room in Delfshaven",
+    "price": 610,
+    "budgetRange": "€469-777",
+    "city": "Rotterdam",
+    "neighborhood": "Delfshaven",
+    "coords": {
+      "lat": 51.938,
+      "lng": 4.46
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-10-28",
+    "amenities": [
+      "wifi",
+      "furnished"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "F",
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room8.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1008",
+    "title": "Bright room in Laak",
+    "price": 1495,
+    "budgetRange": "€1339-1561",
+    "city": "The Hague",
+    "neighborhood": "Laak",
+    "coords": {
+      "lat": 52.072,
+      "lng": 4.292
+    },
+    "roomType": "private",
+    "moveInDate": "2025-11-16",
+    "amenities": [
+      "bike_storage",
+      "washing_machine"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room9.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1009",
+    "title": "Modern room in Noord",
+    "price": 1097,
+    "budgetRange": "€981-1209",
+    "city": "Rotterdam",
+    "neighborhood": "Noord",
+    "coords": {
+      "lat": 51.933,
+      "lng": 4.497
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-13",
+    "amenities": [
+      "gym",
+      "washing_machine",
+      "balcony",
+      "dryer"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "F",
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room10.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1010",
+    "title": "Cozy room in Centrum",
+    "price": 968,
+    "budgetRange": "€883-1053",
+    "city": "Amsterdam",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 52.382,
+      "lng": 4.901
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-11-14",
+    "amenities": [
+      "parking",
+      "bike_storage",
+      "gym"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room1.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1011",
+    "title": "Sunny room in Woensel",
+    "price": 1068,
+    "budgetRange": "€1006-1181",
+    "city": "Eindhoven",
+    "neighborhood": "Woensel",
+    "coords": {
+      "lat": 51.443,
+      "lng": 5.49
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-12-17",
+    "amenities": [
+      "bike_storage",
+      "garden",
+      "gym",
+      "balcony",
+      "furnished"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room2.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1012",
+    "title": "Spacious room in Scheveningen",
+    "price": 1271,
+    "budgetRange": "€1139-1382",
+    "city": "The Hague",
+    "neighborhood": "Scheveningen",
+    "coords": {
+      "lat": 52.071,
+      "lng": 4.29
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-11-17",
+    "amenities": [
+      "dryer",
+      "garden"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room3.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1013",
+    "title": "Bright room in Delfshaven",
+    "price": 816,
+    "budgetRange": "€737-925",
+    "city": "Rotterdam",
+    "neighborhood": "Delfshaven",
+    "coords": {
+      "lat": 51.924,
+      "lng": 4.468
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-10-26",
+    "amenities": [
+      "garden",
+      "parking",
+      "washing_machine"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "M",
+        "M",
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room4.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1014",
+    "title": "Cozy room in Gestel",
+    "price": 564,
+    "budgetRange": "€403-738",
+    "city": "Eindhoven",
+    "neighborhood": "Gestel",
+    "coords": {
+      "lat": 51.438,
+      "lng": 5.489
+    },
+    "roomType": "private",
+    "moveInDate": "2025-10-03",
+    "amenities": [
+      "wifi",
+      "garden",
+      "dryer",
+      "gym"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room5.jpg"
+    ],
+    "description": "Close to shops and cafes."
+  },
+  {
+    "id": "r-1015",
+    "title": "Affordable room in Woensel",
+    "price": 1008,
+    "budgetRange": "€873-1127",
+    "city": "Eindhoven",
+    "neighborhood": "Woensel",
+    "coords": {
+      "lat": 51.424,
+      "lng": 5.473
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-05",
+    "amenities": [
+      "balcony",
+      "furnished",
+      "dishwasher",
+      "parking",
+      "washing_machine"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "M",
+        "M",
+        "M",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room6.jpg"
+    ],
+    "description": "Close to shops and cafes."
+  },
+  {
+    "id": "r-1016",
+    "title": "Modern room in Escamp",
+    "price": 571,
+    "budgetRange": "€475-668",
+    "city": "The Hague",
+    "neighborhood": "Escamp",
+    "coords": {
+      "lat": 52.068,
+      "lng": 4.288
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-08",
+    "amenities": [
+      "gym",
+      "furnished",
+      "bike_storage",
+      "parking"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room7.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1017",
+    "title": "Affordable room in Tongelre",
+    "price": 1174,
+    "budgetRange": "€1080-1294",
+    "city": "Eindhoven",
+    "neighborhood": "Tongelre",
+    "coords": {
+      "lat": 51.456,
+      "lng": 5.474
+    },
+    "roomType": "private",
+    "moveInDate": "2025-11-02",
+    "amenities": [
+      "furnished",
+      "balcony",
+      "dryer"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "M",
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room8.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1018",
+    "title": "Modern room in Jordaan",
+    "price": 1480,
+    "budgetRange": "€1288-1652",
+    "city": "Amsterdam",
+    "neighborhood": "Jordaan",
+    "coords": {
+      "lat": 52.377,
+      "lng": 4.89
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-11-29",
+    "amenities": [
+      "gym",
+      "parking",
+      "dryer",
+      "washing_machine",
+      "furnished"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "M",
+        "F",
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room9.jpg"
+    ],
+    "description": "Close to shops and cafes."
+  },
+  {
+    "id": "r-1019",
+    "title": "Modern room in Laak",
+    "price": 1442,
+    "budgetRange": "€1328-1632",
+    "city": "The Hague",
+    "neighborhood": "Laak",
+    "coords": {
+      "lat": 52.094,
+      "lng": 4.308
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-24",
+    "amenities": [
+      "wifi",
+      "parking"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room10.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1020",
+    "title": "Bright room in Noord",
+    "price": 660,
+    "budgetRange": "€545-741",
+    "city": "Amsterdam",
+    "neighborhood": "Noord",
+    "coords": {
+      "lat": 52.366,
+      "lng": 4.909
+    },
+    "roomType": "private",
+    "moveInDate": "2025-11-17",
+    "amenities": [
+      "gym",
+      "garden",
+      "balcony",
+      "dryer",
+      "dishwasher"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "M",
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room1.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1021",
+    "title": "Bright room in Delfshaven",
+    "price": 1133,
+    "budgetRange": "€1022-1227",
+    "city": "Rotterdam",
+    "neighborhood": "Delfshaven",
+    "coords": {
+      "lat": 51.924,
+      "lng": 4.474
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-11-27",
+    "amenities": [
+      "washing_machine",
+      "gym",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "F",
+        "M",
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room2.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1022",
+    "title": "Cozy room in Oost",
+    "price": 1289,
+    "budgetRange": "€1125-1445",
+    "city": "Amsterdam",
+    "neighborhood": "Oost",
+    "coords": {
+      "lat": 52.387,
+      "lng": 4.892
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-11-11",
+    "amenities": [
+      "dryer",
+      "wifi",
+      "furnished",
+      "balcony"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "F",
+        "M",
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room3.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1023",
+    "title": "Spacious room in Centrum",
+    "price": 436,
+    "budgetRange": "€323-490",
+    "city": "Amsterdam",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 52.381,
+      "lng": 4.906
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-10-04",
+    "amenities": [
+      "gym",
+      "balcony",
+      "dishwasher",
+      "parking",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room4.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1024",
+    "title": "Cozy room in De Pijp",
+    "price": 1355,
+    "budgetRange": "€1158-1454",
+    "city": "Amsterdam",
+    "neighborhood": "De Pijp",
+    "coords": {
+      "lat": 52.365,
+      "lng": 4.901
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-13",
+    "amenities": [
+      "dishwasher",
+      "gym"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "M",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room5.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1025",
+    "title": "Modern room in Scheveningen",
+    "price": 1222,
+    "budgetRange": "€1110-1408",
+    "city": "The Hague",
+    "neighborhood": "Scheveningen",
+    "coords": {
+      "lat": 52.079,
+      "lng": 4.293
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-12-03",
+    "amenities": [
+      "furnished",
+      "gym",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room6.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1026",
+    "title": "Sunny room in Centrum",
+    "price": 1106,
+    "budgetRange": "€993-1178",
+    "city": "Eindhoven",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 51.45,
+      "lng": 5.498
+    },
+    "roomType": "private",
+    "moveInDate": "2025-11-21",
+    "amenities": [
+      "balcony",
+      "dryer",
+      "wifi",
+      "parking"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room7.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1027",
+    "title": "Modern room in Overvecht",
+    "price": 1192,
+    "budgetRange": "€1048-1284",
+    "city": "Utrecht",
+    "neighborhood": "Overvecht",
+    "coords": {
+      "lat": 52.083,
+      "lng": 5.135
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-26",
+    "amenities": [
+      "dryer",
+      "wifi",
+      "garden",
+      "gym"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room8.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1028",
+    "title": "Bright room in Zuidoost",
+    "price": 984,
+    "budgetRange": "€893-1035",
+    "city": "Amsterdam",
+    "neighborhood": "Zuidoost",
+    "coords": {
+      "lat": 52.354,
+      "lng": 4.907
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-12-13",
+    "amenities": [
+      "dryer",
+      "gym",
+      "dishwasher",
+      "garden",
+      "furnished"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "M",
+        "M",
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room9.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1029",
+    "title": "Spacious room in Centrum",
+    "price": 918,
+    "budgetRange": "€775-977",
+    "city": "Amsterdam",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 52.382,
+      "lng": 4.88
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-10-25",
+    "amenities": [
+      "wifi",
+      "parking"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "M",
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room10.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1030",
+    "title": "Modern room in Oost",
+    "price": 795,
+    "budgetRange": "€716-956",
+    "city": "Amsterdam",
+    "neighborhood": "Oost",
+    "coords": {
+      "lat": 52.352,
+      "lng": 4.906
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-11-06",
+    "amenities": [
+      "wifi",
+      "furnished",
+      "garden",
+      "parking"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "M",
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room1.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1031",
+    "title": "Modern room in Centrum",
+    "price": 1301,
+    "budgetRange": "€1119-1432",
+    "city": "Eindhoven",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 51.439,
+      "lng": 5.491
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-11-17",
+    "amenities": [
+      "parking",
+      "garden",
+      "balcony",
+      "furnished"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room2.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1032",
+    "title": "Spacious room in West",
+    "price": 899,
+    "budgetRange": "€734-1081",
+    "city": "Amsterdam",
+    "neighborhood": "West",
+    "coords": {
+      "lat": 52.374,
+      "lng": 4.892
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-12-02",
+    "amenities": [
+      "gym",
+      "furnished",
+      "washing_machine",
+      "balcony"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room3.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1033",
+    "title": "Sunny room in Loosduinen",
+    "price": 1044,
+    "budgetRange": "€875-1171",
+    "city": "The Hague",
+    "neighborhood": "Loosduinen",
+    "coords": {
+      "lat": 52.06,
+      "lng": 4.31
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-12-27",
+    "amenities": [
+      "parking",
+      "balcony",
+      "washing_machine",
+      "dryer"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "M",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room4.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1034",
+    "title": "Cozy room in Noord",
+    "price": 1173,
+    "budgetRange": "€1120-1271",
+    "city": "Amsterdam",
+    "neighborhood": "Noord",
+    "coords": {
+      "lat": 52.361,
+      "lng": 4.885
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-12-14",
+    "amenities": [
+      "parking",
+      "bike_storage",
+      "washing_machine"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room5.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1035",
+    "title": "Cozy room in Loosduinen",
+    "price": 1288,
+    "budgetRange": "€1200-1443",
+    "city": "The Hague",
+    "neighborhood": "Loosduinen",
+    "coords": {
+      "lat": 52.077,
+      "lng": 4.313
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-11-04",
+    "amenities": [
+      "balcony",
+      "washing_machine",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room6.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1036",
+    "title": "Spacious room in Zuidoost",
+    "price": 507,
+    "budgetRange": "€363-642",
+    "city": "Amsterdam",
+    "neighborhood": "Zuidoost",
+    "coords": {
+      "lat": 52.382,
+      "lng": 4.92
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-11-16",
+    "amenities": [
+      "garden",
+      "gym",
+      "balcony",
+      "parking",
+      "wifi"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "M",
+        "M",
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room7.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1037",
+    "title": "Bright room in Loosduinen",
+    "price": 1497,
+    "budgetRange": "€1347-1621",
+    "city": "The Hague",
+    "neighborhood": "Loosduinen",
+    "coords": {
+      "lat": 52.064,
+      "lng": 4.309
+    },
+    "roomType": "private",
+    "moveInDate": "2025-10-02",
+    "amenities": [
+      "bike_storage",
+      "gym",
+      "dishwasher",
+      "balcony",
+      "wifi"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "F",
+        "F",
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room8.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1038",
+    "title": "Cozy room in Centrum",
+    "price": 1250,
+    "budgetRange": "€1085-1323",
+    "city": "Rotterdam",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 51.926,
+      "lng": 4.469
+    },
+    "roomType": "private",
+    "moveInDate": "2025-10-22",
+    "amenities": [
+      "dishwasher",
+      "garden",
+      "furnished",
+      "bike_storage",
+      "dryer"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room9.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1039",
+    "title": "Sunny room in Kralingen",
+    "price": 1129,
+    "budgetRange": "€967-1198",
+    "city": "Rotterdam",
+    "neighborhood": "Kralingen",
+    "coords": {
+      "lat": 51.922,
+      "lng": 4.468
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-12-24",
+    "amenities": [
+      "dishwasher",
+      "parking",
+      "bike_storage",
+      "garden"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "F",
+        "M",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room10.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1040",
+    "title": "Modern room in Centrum",
+    "price": 1302,
+    "budgetRange": "€1193-1408",
+    "city": "Rotterdam",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 51.902,
+      "lng": 4.478
+    },
+    "roomType": "private",
+    "moveInDate": "2025-10-30",
+    "amenities": [
+      "gym",
+      "wifi",
+      "dishwasher",
+      "parking",
+      "garden"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room1.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1041",
+    "title": "Affordable room in Strijp",
+    "price": 988,
+    "budgetRange": "€887-1093",
+    "city": "Eindhoven",
+    "neighborhood": "Strijp",
+    "coords": {
+      "lat": 51.449,
+      "lng": 5.466
+    },
+    "roomType": "private",
+    "moveInDate": "2025-10-10",
+    "amenities": [
+      "garden",
+      "parking",
+      "wifi"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room2.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1042",
+    "title": "Affordable room in Feijenoord",
+    "price": 934,
+    "budgetRange": "€782-1123",
+    "city": "Rotterdam",
+    "neighborhood": "Feijenoord",
+    "coords": {
+      "lat": 51.905,
+      "lng": 4.481
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-11-18",
+    "amenities": [
+      "bike_storage",
+      "furnished",
+      "balcony",
+      "washing_machine",
+      "dryer"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room3.jpg"
+    ],
+    "description": "Close to shops and cafes."
+  },
+  {
+    "id": "r-1043",
+    "title": "Spacious room in Zuidoost",
+    "price": 1370,
+    "budgetRange": "€1178-1486",
+    "city": "Amsterdam",
+    "neighborhood": "Zuidoost",
+    "coords": {
+      "lat": 52.375,
+      "lng": 4.904
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-12-15",
+    "amenities": [
+      "parking",
+      "washing_machine",
+      "balcony",
+      "dishwasher"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "F",
+        "M",
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room4.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1044",
+    "title": "Cozy room in Scheveningen",
+    "price": 943,
+    "budgetRange": "€746-1075",
+    "city": "The Hague",
+    "neighborhood": "Scheveningen",
+    "coords": {
+      "lat": 52.095,
+      "lng": 4.291
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-11-16",
+    "amenities": [
+      "washing_machine",
+      "parking",
+      "wifi",
+      "furnished"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "F",
+        "F",
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room5.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1045",
+    "title": "Affordable room in Noord",
+    "price": 774,
+    "budgetRange": "€592-930",
+    "city": "Amsterdam",
+    "neighborhood": "Noord",
+    "coords": {
+      "lat": 52.388,
+      "lng": 4.912
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-10-05",
+    "amenities": [
+      "parking",
+      "dryer"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room6.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1046",
+    "title": "Affordable room in De Pijp",
+    "price": 1301,
+    "budgetRange": "€1152-1376",
+    "city": "Amsterdam",
+    "neighborhood": "De Pijp",
+    "coords": {
+      "lat": 52.354,
+      "lng": 4.903
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-20",
+    "amenities": [
+      "dryer",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "M",
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room7.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1047",
+    "title": "Cozy room in Scheveningen",
+    "price": 476,
+    "budgetRange": "€314-644",
+    "city": "The Hague",
+    "neighborhood": "Scheveningen",
+    "coords": {
+      "lat": 52.099,
+      "lng": 4.306
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-10-11",
+    "amenities": [
+      "gym",
+      "garden",
+      "dishwasher",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room8.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1048",
+    "title": "Sunny room in Binnenstad",
+    "price": 1420,
+    "budgetRange": "€1282-1584",
+    "city": "Utrecht",
+    "neighborhood": "Binnenstad",
+    "coords": {
+      "lat": 52.1,
+      "lng": 5.113
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-11-09",
+    "amenities": [
+      "balcony",
+      "furnished",
+      "dryer",
+      "washing_machine"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "F",
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room9.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1049",
+    "title": "Modern room in Centrum",
+    "price": 485,
+    "budgetRange": "€369-595",
+    "city": "Eindhoven",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 51.44,
+      "lng": 5.472
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-10-30",
+    "amenities": [
+      "gym",
+      "bike_storage",
+      "wifi",
+      "dishwasher",
+      "furnished"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "F",
+        "M",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room10.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1050",
+    "title": "Sunny room in Noord",
+    "price": 1450,
+    "budgetRange": "€1274-1536",
+    "city": "Amsterdam",
+    "neighborhood": "Noord",
+    "coords": {
+      "lat": 52.384,
+      "lng": 4.908
+    },
+    "roomType": "private",
+    "moveInDate": "2025-11-22",
+    "amenities": [
+      "bike_storage",
+      "gym",
+      "dryer"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "M",
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room1.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1051",
+    "title": "Bright room in Centrum",
+    "price": 775,
+    "budgetRange": "€723-955",
+    "city": "The Hague",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 52.081,
+      "lng": 4.306
+    },
+    "roomType": "private",
+    "moveInDate": "2025-11-14",
+    "amenities": [
+      "furnished",
+      "garden"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room2.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1052",
+    "title": "Sunny room in Loosduinen",
+    "price": 656,
+    "budgetRange": "€568-846",
+    "city": "The Hague",
+    "neighborhood": "Loosduinen",
+    "coords": {
+      "lat": 52.081,
+      "lng": 4.281
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-12-14",
+    "amenities": [
+      "bike_storage",
+      "wifi",
+      "balcony"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "M",
+        "F",
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room3.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1053",
+    "title": "Spacious room in Loosduinen",
+    "price": 656,
+    "budgetRange": "€489-792",
+    "city": "The Hague",
+    "neighborhood": "Loosduinen",
+    "coords": {
+      "lat": 52.088,
+      "lng": 4.288
+    },
+    "roomType": "private",
+    "moveInDate": "2025-11-15",
+    "amenities": [
+      "furnished",
+      "gym",
+      "washing_machine",
+      "dryer"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "M",
+        "M",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room4.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1054",
+    "title": "Bright room in Jordaan",
+    "price": 1389,
+    "budgetRange": "€1333-1485",
+    "city": "Amsterdam",
+    "neighborhood": "Jordaan",
+    "coords": {
+      "lat": 52.372,
+      "lng": 4.896
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-12-19",
+    "amenities": [
+      "dishwasher",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room5.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1055",
+    "title": "Bright room in Leidsche Rijn",
+    "price": 537,
+    "budgetRange": "€351-649",
+    "city": "Utrecht",
+    "neighborhood": "Leidsche Rijn",
+    "coords": {
+      "lat": 52.083,
+      "lng": 5.109
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-11-18",
+    "amenities": [
+      "balcony",
+      "dishwasher",
+      "garden",
+      "gym"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room6.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1056",
+    "title": "Modern room in Feijenoord",
+    "price": 990,
+    "budgetRange": "€879-1085",
+    "city": "Rotterdam",
+    "neighborhood": "Feijenoord",
+    "coords": {
+      "lat": 51.933,
+      "lng": 4.461
+    },
+    "roomType": "private",
+    "moveInDate": "2025-11-11",
+    "amenities": [
+      "wifi",
+      "balcony",
+      "washing_machine",
+      "dishwasher",
+      "parking"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "M",
+        "M",
+        "M",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room7.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1057",
+    "title": "Spacious room in Loosduinen",
+    "price": 559,
+    "budgetRange": "€378-735",
+    "city": "The Hague",
+    "neighborhood": "Loosduinen",
+    "coords": {
+      "lat": 52.067,
+      "lng": 4.319
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-12-06",
+    "amenities": [
+      "dryer",
+      "balcony",
+      "wifi",
+      "furnished",
+      "gym"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "M",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room8.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1058",
+    "title": "Sunny room in Laak",
+    "price": 1036,
+    "budgetRange": "€839-1115",
+    "city": "The Hague",
+    "neighborhood": "Laak",
+    "coords": {
+      "lat": 52.088,
+      "lng": 4.282
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-12-14",
+    "amenities": [
+      "dishwasher",
+      "wifi",
+      "gym",
+      "garden"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room9.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1059",
+    "title": "Sunny room in Tongelre",
+    "price": 884,
+    "budgetRange": "€822-1037",
+    "city": "Eindhoven",
+    "neighborhood": "Tongelre",
+    "coords": {
+      "lat": 51.421,
+      "lng": 5.491
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-02",
+    "amenities": [
+      "garden",
+      "parking",
+      "furnished",
+      "dishwasher"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room10.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1060",
+    "title": "Sunny room in Centrum",
+    "price": 1042,
+    "budgetRange": "€963-1191",
+    "city": "Amsterdam",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 52.374,
+      "lng": 4.895
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-12-06",
+    "amenities": [
+      "parking",
+      "garden",
+      "dishwasher",
+      "washing_machine"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room1.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1061",
+    "title": "Bright room in Gestel",
+    "price": 1052,
+    "budgetRange": "€940-1195",
+    "city": "Eindhoven",
+    "neighborhood": "Gestel",
+    "coords": {
+      "lat": 51.434,
+      "lng": 5.484
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-12-18",
+    "amenities": [
+      "gym",
+      "dryer",
+      "wifi",
+      "balcony",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room2.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1062",
+    "title": "Modern room in Strijp",
+    "price": 1136,
+    "budgetRange": "€987-1187",
+    "city": "Eindhoven",
+    "neighborhood": "Strijp",
+    "coords": {
+      "lat": 51.449,
+      "lng": 5.465
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-12-27",
+    "amenities": [
+      "parking",
+      "garden"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "F",
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room3.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1063",
+    "title": "Cozy room in Oost",
+    "price": 768,
+    "budgetRange": "€575-890",
+    "city": "Utrecht",
+    "neighborhood": "Oost",
+    "coords": {
+      "lat": 52.104,
+      "lng": 5.129
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-12-08",
+    "amenities": [
+      "wifi",
+      "furnished"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "M",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room4.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1064",
+    "title": "Spacious room in Scheveningen",
+    "price": 1180,
+    "budgetRange": "€1112-1280",
+    "city": "The Hague",
+    "neighborhood": "Scheveningen",
+    "coords": {
+      "lat": 52.079,
+      "lng": 4.282
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-12-04",
+    "amenities": [
+      "garden",
+      "wifi",
+      "washing_machine"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room5.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1065",
+    "title": "Sunny room in Leidsche Rijn",
+    "price": 1059,
+    "budgetRange": "€908-1119",
+    "city": "Utrecht",
+    "neighborhood": "Leidsche Rijn",
+    "coords": {
+      "lat": 52.101,
+      "lng": 5.122
+    },
+    "roomType": "private",
+    "moveInDate": "2025-11-17",
+    "amenities": [
+      "parking",
+      "dishwasher"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "F",
+        "F",
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room6.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1066",
+    "title": "Modern room in Escamp",
+    "price": 893,
+    "budgetRange": "€731-958",
+    "city": "The Hague",
+    "neighborhood": "Escamp",
+    "coords": {
+      "lat": 52.097,
+      "lng": 4.317
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-10-09",
+    "amenities": [
+      "bike_storage",
+      "wifi",
+      "gym",
+      "balcony"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room7.jpg"
+    ],
+    "description": "Close to shops and cafes."
+  },
+  {
+    "id": "r-1067",
+    "title": "Bright room in Kralingen",
+    "price": 1127,
+    "budgetRange": "€987-1206",
+    "city": "Rotterdam",
+    "neighborhood": "Kralingen",
+    "coords": {
+      "lat": 51.902,
+      "lng": 4.495
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-10-03",
+    "amenities": [
+      "bike_storage",
+      "furnished",
+      "gym",
+      "dryer",
+      "balcony"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room8.jpg"
+    ],
+    "description": "Close to shops and cafes."
+  },
+  {
+    "id": "r-1068",
+    "title": "Bright room in Leidsche Rijn",
+    "price": 756,
+    "budgetRange": "€644-895",
+    "city": "Utrecht",
+    "neighborhood": "Leidsche Rijn",
+    "coords": {
+      "lat": 52.094,
+      "lng": 5.133
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-10-11",
+    "amenities": [
+      "parking",
+      "dryer",
+      "garden"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room9.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1069",
+    "title": "Spacious room in Centrum",
+    "price": 648,
+    "budgetRange": "€465-730",
+    "city": "Rotterdam",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 51.901,
+      "lng": 4.477
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-11",
+    "amenities": [
+      "parking",
+      "gym",
+      "dishwasher",
+      "dryer",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room10.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1070",
+    "title": "Sunny room in Noord",
+    "price": 1051,
+    "budgetRange": "€881-1192",
+    "city": "Amsterdam",
+    "neighborhood": "Noord",
+    "coords": {
+      "lat": 52.358,
+      "lng": 4.914
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-12-19",
+    "amenities": [
+      "bike_storage",
+      "parking",
+      "washing_machine",
+      "furnished",
+      "garden"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "F",
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room1.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1071",
+    "title": "Cozy room in Leidsche Rijn",
+    "price": 1463,
+    "budgetRange": "€1332-1529",
+    "city": "Utrecht",
+    "neighborhood": "Leidsche Rijn",
+    "coords": {
+      "lat": 52.082,
+      "lng": 5.13
+    },
+    "roomType": "private",
+    "moveInDate": "2025-10-01",
+    "amenities": [
+      "garden",
+      "dishwasher",
+      "furnished",
+      "washing_machine"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room2.jpg"
+    ],
+    "description": "Close to shops and cafes."
+  },
+  {
+    "id": "r-1072",
+    "title": "Affordable room in Gestel",
+    "price": 1348,
+    "budgetRange": "€1287-1522",
+    "city": "Eindhoven",
+    "neighborhood": "Gestel",
+    "coords": {
+      "lat": 51.446,
+      "lng": 5.498
+    },
+    "roomType": "private",
+    "moveInDate": "2025-10-30",
+    "amenities": [
+      "parking",
+      "washing_machine"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "M",
+        "F",
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room3.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1073",
+    "title": "Modern room in Noord",
+    "price": 556,
+    "budgetRange": "€486-687",
+    "city": "Rotterdam",
+    "neighborhood": "Noord",
+    "coords": {
+      "lat": 51.918,
+      "lng": 4.466
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-12-02",
+    "amenities": [
+      "garden",
+      "balcony"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "F",
+        "M",
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room4.jpg"
+    ],
+    "description": "Close to shops and cafes."
+  },
+  {
+    "id": "r-1074",
+    "title": "Bright room in Oost",
+    "price": 1321,
+    "budgetRange": "€1142-1451",
+    "city": "Utrecht",
+    "neighborhood": "Oost",
+    "coords": {
+      "lat": 52.091,
+      "lng": 5.131
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-12-14",
+    "amenities": [
+      "garden",
+      "furnished",
+      "wifi"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room5.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1075",
+    "title": "Bright room in Feijenoord",
+    "price": 1437,
+    "budgetRange": "€1381-1631",
+    "city": "Rotterdam",
+    "neighborhood": "Feijenoord",
+    "coords": {
+      "lat": 51.934,
+      "lng": 4.467
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-11-04",
+    "amenities": [
+      "balcony",
+      "gym",
+      "dishwasher",
+      "furnished"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "F",
+        "M",
+        "M",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room6.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1076",
+    "title": "Affordable room in Laak",
+    "price": 909,
+    "budgetRange": "€829-1105",
+    "city": "The Hague",
+    "neighborhood": "Laak",
+    "coords": {
+      "lat": 52.086,
+      "lng": 4.288
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-10-27",
+    "amenities": [
+      "dishwasher",
+      "balcony",
+      "wifi",
+      "furnished"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room7.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1077",
+    "title": "Cozy room in Loosduinen",
+    "price": 472,
+    "budgetRange": "€326-656",
+    "city": "The Hague",
+    "neighborhood": "Loosduinen",
+    "coords": {
+      "lat": 52.09,
+      "lng": 4.285
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-11-16",
+    "amenities": [
+      "furnished",
+      "parking",
+      "wifi"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room8.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1078",
+    "title": "Sunny room in Noord",
+    "price": 754,
+    "budgetRange": "€564-841",
+    "city": "Rotterdam",
+    "neighborhood": "Noord",
+    "coords": {
+      "lat": 51.907,
+      "lng": 4.49
+    },
+    "roomType": "private",
+    "moveInDate": "2025-11-14",
+    "amenities": [
+      "bike_storage",
+      "wifi",
+      "balcony",
+      "dryer"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "F",
+        "M",
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room9.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1079",
+    "title": "Sunny room in West",
+    "price": 1406,
+    "budgetRange": "€1227-1602",
+    "city": "Amsterdam",
+    "neighborhood": "West",
+    "coords": {
+      "lat": 52.357,
+      "lng": 4.886
+    },
+    "roomType": "private",
+    "moveInDate": "2025-10-29",
+    "amenities": [
+      "furnished",
+      "garden",
+      "dryer"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "F",
+        "F",
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room10.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1080",
+    "title": "Bright room in Scheveningen",
+    "price": 1136,
+    "budgetRange": "€1057-1304",
+    "city": "The Hague",
+    "neighborhood": "Scheveningen",
+    "coords": {
+      "lat": 52.092,
+      "lng": 4.28
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-03",
+    "amenities": [
+      "parking",
+      "gym",
+      "dishwasher"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room1.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1081",
+    "title": "Cozy room in Gestel",
+    "price": 1435,
+    "budgetRange": "€1374-1583",
+    "city": "Eindhoven",
+    "neighborhood": "Gestel",
+    "coords": {
+      "lat": 51.448,
+      "lng": 5.493
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-10-07",
+    "amenities": [
+      "bike_storage",
+      "dishwasher",
+      "parking",
+      "balcony",
+      "gym"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room2.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1082",
+    "title": "Bright room in Kralingen",
+    "price": 743,
+    "budgetRange": "€664-935",
+    "city": "Rotterdam",
+    "neighborhood": "Kralingen",
+    "coords": {
+      "lat": 51.918,
+      "lng": 4.5
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-10-12",
+    "amenities": [
+      "balcony",
+      "dryer",
+      "gym"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room3.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1083",
+    "title": "Modern room in Centrum",
+    "price": 734,
+    "budgetRange": "€556-895",
+    "city": "Amsterdam",
+    "neighborhood": "Centrum",
+    "coords": {
+      "lat": 52.369,
+      "lng": 4.919
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-10-17",
+    "amenities": [
+      "washing_machine",
+      "balcony"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room4.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1084",
+    "title": "Affordable room in Tongelre",
+    "price": 883,
+    "budgetRange": "€702-1027",
+    "city": "Eindhoven",
+    "neighborhood": "Tongelre",
+    "coords": {
+      "lat": 51.436,
+      "lng": 5.472
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-12-28",
+    "amenities": [
+      "parking",
+      "furnished",
+      "garden",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room5.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1085",
+    "title": "Sunny room in West",
+    "price": 1405,
+    "budgetRange": "€1208-1605",
+    "city": "Amsterdam",
+    "neighborhood": "West",
+    "coords": {
+      "lat": 52.35,
+      "lng": 4.911
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-12-26",
+    "amenities": [
+      "balcony",
+      "bike_storage",
+      "gym",
+      "parking"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room6.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1086",
+    "title": "Spacious room in Oost",
+    "price": 474,
+    "budgetRange": "€363-646",
+    "city": "Amsterdam",
+    "neighborhood": "Oost",
+    "coords": {
+      "lat": 52.386,
+      "lng": 4.911
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-28",
+    "amenities": [
+      "furnished",
+      "balcony"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "F",
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room7.jpg"
+    ],
+    "description": "Great location with good transport links."
+  },
+  {
+    "id": "r-1087",
+    "title": "Cozy room in Escamp",
+    "price": 1090,
+    "budgetRange": "€973-1216",
+    "city": "The Hague",
+    "neighborhood": "Escamp",
+    "coords": {
+      "lat": 52.079,
+      "lng": 4.319
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-22",
+    "amenities": [
+      "balcony",
+      "gym",
+      "furnished",
+      "parking"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "F",
+        "F",
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room8.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1088",
+    "title": "Cozy room in Scheveningen",
+    "price": 1312,
+    "budgetRange": "€1203-1397",
+    "city": "The Hague",
+    "neighborhood": "Scheveningen",
+    "coords": {
+      "lat": 52.065,
+      "lng": 4.306
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-10-14",
+    "amenities": [
+      "gym",
+      "balcony"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room9.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1089",
+    "title": "Affordable room in Strijp",
+    "price": 1206,
+    "budgetRange": "€1156-1294",
+    "city": "Eindhoven",
+    "neighborhood": "Strijp",
+    "coords": {
+      "lat": 51.438,
+      "lng": 5.479
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-12-14",
+    "amenities": [
+      "bike_storage",
+      "dryer",
+      "parking",
+      "garden",
+      "wifi"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room10.jpg"
+    ],
+    "description": "Close to shops and cafes."
+  },
+  {
+    "id": "r-1090",
+    "title": "Affordable room in Overvecht",
+    "price": 1479,
+    "budgetRange": "€1318-1555",
+    "city": "Utrecht",
+    "neighborhood": "Overvecht",
+    "coords": {
+      "lat": 52.082,
+      "lng": 5.122
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-10-05",
+    "amenities": [
+      "balcony",
+      "bike_storage",
+      "dishwasher",
+      "gym",
+      "wifi"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "M",
+        "F",
+        "M",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room1.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1091",
+    "title": "Modern room in Oost",
+    "price": 417,
+    "budgetRange": "€300-525",
+    "city": "Amsterdam",
+    "neighborhood": "Oost",
+    "coords": {
+      "lat": 52.388,
+      "lng": 4.891
+    },
+    "roomType": "private",
+    "moveInDate": "2025-10-04",
+    "amenities": [
+      "balcony",
+      "furnished",
+      "garden",
+      "wifi"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "M",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room2.jpg"
+    ],
+    "description": "Close to shops and cafes."
+  },
+  {
+    "id": "r-1092",
+    "title": "Bright room in Gestel",
+    "price": 1080,
+    "budgetRange": "€966-1278",
+    "city": "Eindhoven",
+    "neighborhood": "Gestel",
+    "coords": {
+      "lat": 51.451,
+      "lng": 5.491
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-11-24",
+    "amenities": [
+      "gym",
+      "washing_machine",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "M",
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room3.jpg"
+    ],
+    "description": "Close to shops and cafes."
+  },
+  {
+    "id": "r-1093",
+    "title": "Spacious room in Oost",
+    "price": 1482,
+    "budgetRange": "€1335-1593",
+    "city": "Utrecht",
+    "neighborhood": "Oost",
+    "coords": {
+      "lat": 52.081,
+      "lng": 5.139
+    },
+    "roomType": "private",
+    "moveInDate": "2025-11-02",
+    "amenities": [
+      "gym",
+      "dryer",
+      "bike_storage"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room4.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1094",
+    "title": "Affordable room in West",
+    "price": 1470,
+    "budgetRange": "€1367-1588",
+    "city": "Amsterdam",
+    "neighborhood": "West",
+    "coords": {
+      "lat": 52.353,
+      "lng": 4.892
+    },
+    "roomType": "private",
+    "moveInDate": "2025-12-16",
+    "amenities": [
+      "washing_machine",
+      "gym",
+      "dishwasher"
+    ],
+    "roommates": {
+      "count": 3,
+      "genders": [
+        "M",
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room5.jpg"
+    ],
+    "description": "Quiet area with friendly neighbors."
+  },
+  {
+    "id": "r-1095",
+    "title": "Cozy room in Laak",
+    "price": 1191,
+    "budgetRange": "€1009-1262",
+    "city": "The Hague",
+    "neighborhood": "Laak",
+    "coords": {
+      "lat": 52.062,
+      "lng": 4.314
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-11-18",
+    "amenities": [
+      "garden",
+      "parking"
+    ],
+    "roommates": {
+      "count": 1,
+      "genders": [
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room6.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1096",
+    "title": "Spacious room in Scheveningen",
+    "price": 1430,
+    "budgetRange": "€1235-1525",
+    "city": "The Hague",
+    "neighborhood": "Scheveningen",
+    "coords": {
+      "lat": 52.074,
+      "lng": 4.316
+    },
+    "roomType": "private",
+    "moveInDate": "2025-10-14",
+    "amenities": [
+      "washing_machine",
+      "parking",
+      "furnished",
+      "gym"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "F",
+        "M"
+      ]
+    },
+    "photos": [
+      "/placeholder/room7.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  },
+  {
+    "id": "r-1097",
+    "title": "Affordable room in Oost",
+    "price": 893,
+    "budgetRange": "€783-1043",
+    "city": "Utrecht",
+    "neighborhood": "Oost",
+    "coords": {
+      "lat": 52.08,
+      "lng": 5.11
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-10-14",
+    "amenities": [
+      "furnished",
+      "bike_storage",
+      "garden"
+    ],
+    "roommates": {
+      "count": 2,
+      "genders": [
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room8.jpg"
+    ],
+    "description": "Close to shops and cafes."
+  },
+  {
+    "id": "r-1098",
+    "title": "Cozy room in Scheveningen",
+    "price": 971,
+    "budgetRange": "€771-1042",
+    "city": "The Hague",
+    "neighborhood": "Scheveningen",
+    "coords": {
+      "lat": 52.071,
+      "lng": 4.288
+    },
+    "roomType": "shared",
+    "moveInDate": "2025-10-05",
+    "amenities": [
+      "garden",
+      "dryer"
+    ],
+    "roommates": {
+      "count": 4,
+      "genders": [
+        "M",
+        "M",
+        "F",
+        "F"
+      ]
+    },
+    "photos": [
+      "/placeholder/room9.jpg"
+    ],
+    "description": "Shared kitchen and living room included."
+  },
+  {
+    "id": "r-1099",
+    "title": "Sunny room in De Pijp",
+    "price": 992,
+    "budgetRange": "€834-1116",
+    "city": "Amsterdam",
+    "neighborhood": "De Pijp",
+    "coords": {
+      "lat": 52.384,
+      "lng": 4.891
+    },
+    "roomType": "studio",
+    "moveInDate": "2025-10-06",
+    "amenities": [
+      "furnished",
+      "parking",
+      "wifi"
+    ],
+    "roommates": {
+      "count": 0,
+      "genders": []
+    },
+    "photos": [
+      "/placeholder/room10.jpg"
+    ],
+    "description": "Ideal for students and young professionals."
+  }
+]
