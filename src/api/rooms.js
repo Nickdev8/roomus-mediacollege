@@ -4,6 +4,10 @@ export function searchRooms(params) {
   return get('/rooms/search', params);
 }
 
+export function getRoomCounts(params) {
+  return get('/rooms/counts', params);
+}
+
 export function getRoom(id) {
   return get(`/rooms/${id}`);
 }
