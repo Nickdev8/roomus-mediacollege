@@ -4,7 +4,7 @@ export default function RoomCard({ room }) {
   return (
     <div className="card">
       <div className="card__media" aria-hidden>
-        <div className="imgph" />
+        <img src={`https://picsum.photos/seed/${room.id}/400/300`} alt={room.title} />
       </div>
       <div className="card__body">
         <h3 className="card__title">{room.title}</h3>
